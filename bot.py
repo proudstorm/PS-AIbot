@@ -1,4 +1,4 @@
-```python id="q4e3ru"
+
 import sqlite3
 import asyncio
 import os
@@ -184,4 +184,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+
